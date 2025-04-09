@@ -9,11 +9,13 @@ This is a sample Jetpack Compose app that fetches and displays a list of product
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/product-showcase-app.git
-   cd product-showcase-app
+   git clone https://github.com/KushalKejriwal/JetpackApplication
+
+
+   
 Open the project in Android Studio
 
-Run the app
+Open the My_Application file
 
 Make sure you're using a device or emulator with internet access.
 
